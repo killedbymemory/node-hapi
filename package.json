@@ -1,0 +1,25 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killedbymemory/node-test.git"
+  },
+  "author": "Leonardo Situmorang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/killedbymemory/node-test/issues"
+  },
+  "homepage": "https://github.com/killedbymemory/node-test#readme",
+  "dependencies": {
+    "bluebird": "3.0.6",
+    "hapi": "11.1.2",
+    "sails-memory": "0.10.5",
+    "waterline": "0.10.28"
+  }
+}
